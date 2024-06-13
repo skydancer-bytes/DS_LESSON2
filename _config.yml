@@ -1,1 +1,5 @@
-
+title: Data Science Project
+#logo:/assets/img/headshot
+description: This is an example
+show_downloads: True
+theme: Modernist
