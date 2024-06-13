@@ -12,3 +12,5 @@ Creating my first portfolio
 
 [URL name](https://www.markdownguide.org/cheat-sheet/)
 
+# Bring in the histogram 
+![Histogram](
